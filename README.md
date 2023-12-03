@@ -19,3 +19,10 @@ To install a script, click the `Install` link below.
 [Install](https://raw.githubusercontent.com/duanemay/tampermonkey-scripts/main/rachio-reorder-calendar.user.js)
 
 This script will reorder the calendar on the Rachio Sprinkler Controller website, so that it appears in chronological order, instead of in random order.
+
+### Remove Gmail Ads
+
+[View Source](gmail-ads.user.js) |
+[Install](https://raw.githubusercontent.com/duanemay/tampermonkey-scripts/main/gmail-ads.user.js)
+
+This script will skip over the ad rows from the Gmail website.
