@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rachio Reorder Calendar
-// @namespace    http://rach.io
-// @version      0.1.1
+// @namespace    duanemay/rachio-reorder-calendar
+// @version      0.1.2
 // @description  Reorders the Calendar widget on the Rachio website to be in chronological order instead of random order.
 // @author       Duane May
 // @license      Apache License 2
