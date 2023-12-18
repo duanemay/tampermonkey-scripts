@@ -18,7 +18,8 @@ To install a script, click the `Install` link below.
 [View Source](rachio-reorder-calendar.user.js) |
 [Install](https://raw.githubusercontent.com/duanemay/tampermonkey-scripts/main/rachio-reorder-calendar.user.js)
 
-This script will reorder the calendar on the Rachio Sprinkler Controller website, so that it appears in chronological order, instead of in random order.
+This script will reorder the calendar on the Rachio Sprinkler Controller website, 
+so that it appears in chronological order, instead of in random order.
 
 ### Remove Gmail Ads
 
@@ -35,3 +36,17 @@ This script will skip over the ad rows from the Gmail website.
 This script will show the price history of an item on Amazon, when viewing the item on Amazon.
 
 ![Example camelcamelcamel price chart](docs/amazon-camelcamelcamel-price-chart.png)
+
+### Masterworks Reorder Art Collectors View
+
+[View Source](masterworks-reorder.user.js) |
+[Install](https://raw.githubusercontent.com/duanemay/tampermonkey-scripts/main/masterworks-reorder.user.js)
+
+This script will add a button that when pressed will reorder the art 
+shown in the collectors view on the Masterworks website,
+so that it appears in order of the best "deal."  
+Where a deal is defined by 1 minus the current implied value of the art, 
+divided by the current Appraised (or Offering) value of the art.
+Note: it will only reorder the art that is currently visible on the page.
+
+![Example Sort by Deal](docs/masterworks-reorder.png)
