@@ -50,3 +50,10 @@ divided by the current Appraised (or Offering) value of the art.
 Note: it will only reorder the art that is currently visible on the page.
 
 ![Example Sort by Deal](docs/masterworks-reorder.png)
+
+### Edgenuity Auto-Advance
+
+[View Source](edgenuity.user.js) |
+[Install](https://raw.githubusercontent.com/duanemay/tampermonkey-scripts/edgenuity/edgenuity.user.js)
+
+This script will automatically advance to the next page in an Edgenuity course, when the current video is completed.
