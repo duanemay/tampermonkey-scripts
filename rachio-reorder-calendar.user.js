@@ -28,7 +28,7 @@ function getDaysArray() {
 
     for (let i = 1; i < 9; i++) {
         date.setDate(date.getDate() + 1);
-        let formattedDate = (date.getMonth() + 1).toString().padStart(2, '0') + '/' +
+        let formattedDate = (date.getMonth() + 1).toString() + '/' +
             date.getDate().toString().padStart(2, '0');
         dates.push(formattedDate);
     }
