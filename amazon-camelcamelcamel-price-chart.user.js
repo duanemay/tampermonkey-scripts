@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name        Amazon Price Variation (Fork)
+// @name        Amazon CamelCamelCamel Chart
+// @version     1.0.0
 // @namespace   duanemay/camelcamelcamel-price-chart
 // @description Embeds CamelCamelCamel price chart in Amazon
 // @author       Duane May
@@ -7,8 +8,8 @@
 // @include     https://www.amazon.*/*
 // @include     http://smile.amazon.*/*
 // @include     https://smile.amazon.*/*
-// @version     0.0.1
 // @grant       none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 // ==/UserScript==
 
