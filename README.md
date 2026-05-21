@@ -18,8 +18,15 @@ To install a script, click the `Install` link below.
 [View Source](rachio-reorder-calendar.user.js) |
 [Install](https://raw.githubusercontent.com/duanemay/tampermonkey-scripts/main/rachio-reorder-calendar.user.js)
 
-This script will reorder the calendar on the Rachio Sprinkler Controller website, 
+This script will reorder the calendar on the Rachio Sprinkler Controller website,
 so that it appears in chronological order, instead of in random order.
+
+### Gemini Auto-Select Extended Thinking Mode
+
+[View Source](gemini-thinking-mode.user.js) |
+[Install](https://raw.githubusercontent.com/duanemay/tampermonkey-scripts/main/gemini-thinking-mode.user.js)
+
+This script will Automatically select the Extended Thinking mode in Gemini.
 
 ### Remove Gmail Ads
 
